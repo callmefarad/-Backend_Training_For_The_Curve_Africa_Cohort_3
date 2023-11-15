@@ -1,0 +1,22 @@
+{
+  "name": "handling-static-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "static file",
+    "node",
+    "nodemon",
+    "http",
+    "file system",
+    "path"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "curvejavascript tutorial",
+  "version": "1.0.0",
+  "description": "A training session for TheCurveAfrica cohort 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node javascriptDate.js"
+  },
+  "author": "Ubani Friday",
+  "license": "ISC"
+}

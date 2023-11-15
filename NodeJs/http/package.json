@@ -1,0 +1,18 @@
+{
+  "name": "My first node project",
+  "version": "1.0.0",
+  "description": "node, http",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "http"
+  ],
+  "author": "Ubani",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
